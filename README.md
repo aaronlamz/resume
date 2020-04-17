@@ -109,10 +109,10 @@
 * 前端工程化
 能够使用Webpack、Fis、Jenkins实现前端工程化
 * Git/CI/Jenkins
-熟练使用Git相关命令、GitlabCI持续集成部署项目
+熟练使用Git相关命令、GitlabCI、jenkins持续集成部署项目
 * NodeJS
-能够使用Node中间件搭建简单服务器、实现数据库交互、使用异步IO实现文件处理
+熟练使用Node、Express/Koa开发
 * Linux/Shell
 熟悉使用Linux Shell基本命令
 * Nginx
-熟悉使用Nginx基本部署配置
+熟悉使用Nginx基本配置
