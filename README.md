@@ -98,21 +98,21 @@
 
 
 ## 专业技能
-* HTML5/CSS
+### HTML5/CSS
 能够编写语义化的HTML，模块化的CSS，能够独立完成网页切图，熟悉已标准化的 HTML5 / CSS3 新特性，并在项目中使用。
-* JavaScript
+### JavaScript
 能够使用JavaScript编写日常组件、原生代码、实现DOM、BOM交互
-* Vue/React/Avalon/JQuery/Zepto
+### Vue/React/Avalon/JQuery/Zepto
 熟练使用Vue、Avalon、Zepto等前端框架实现前端日常开发工作
-* 前端调试
+### 前端调试
 熟练使用fiddler、Charles、Chrome等工具调试程序
-* 前端工程化
+### 前端工程化
 能够使用Webpack、Fis、Jenkins实现前端工程化
-* Git/CI/Jenkins
+### Git/CI/Jenkins
 熟练使用Git相关命令、GitlabCI、jenkins持续集成部署项目
-* NodeJS
+### NodeJS
 熟练使用Node、Express/Koa开发
-* Linux/Shell
+### Linux/Shell
 熟悉使用Linux Shell基本命令
-* Nginx
+### Nginx
 熟悉使用Nginx基本配置
