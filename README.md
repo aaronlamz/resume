@@ -104,6 +104,8 @@
 能够使用JavaScript编写日常组件、原生代码、实现DOM、BOM交互
 * Vue/React/Avalon/JQuery/Zepto
 熟练使用Vue、Avalon、Zepto等前端框架实现前端日常开发工作
+* Hybrid App
+熟悉Hybrid App开发流程、技术方案及调试等
 * 前端调试
 熟练使用fiddler、Charles、Chrome等工具调试程序
 * 前端工程化
