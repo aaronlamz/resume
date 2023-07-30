@@ -4,7 +4,7 @@
 set -e
 
 
-# 生成的文件夹
+# 生成临时目录
 mkdir site-pages
 cp -rf src/* site-pages/
 cd site-pages
