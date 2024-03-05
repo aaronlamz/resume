@@ -5,3 +5,4 @@
 My resume, written with Notion. Visit online at [https://www.ultimate-kernel.fun/resume](https://www.ultimate-kernel.fun/resume).
 
 
+
